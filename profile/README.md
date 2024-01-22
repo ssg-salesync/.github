@@ -43,7 +43,7 @@
 
 ## 5.2. Public Cloud: Amazon Web Service
 
-![](https://github.com/ssg-salesync/.github/tree/main/assets/aws.png)
+![](https://github.com/ssg-salesync/.github/blob/main/assets/aws.png)
 
 ### 5.2.1. Salesync 인프라 설계 기초 정보
 
