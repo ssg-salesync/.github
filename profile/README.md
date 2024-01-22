@@ -12,9 +12,9 @@
 
 ### 4.1.2. Domain-Driven Development
 
-![](https://github.com/ssg-salesync/.github/tree/main/assets/event1.jpeg)
+![](https://github.com/ssg-salesync/.github/blob/main/assets/event1.jpg)
 
-![](https://github.com/ssg-salesync/.github/tree/main/assets/event2.jpeg)
+![](https://github.com/ssg-salesync/.github/blob/main/assets/event2.jpg)
 
 - 마이크로 서비스가 얼마나 “마이크로”해야 하는지 기준이 애매했던 상태에서, DDD 기법의 Event Storming을 통해 도메인 정의
 - 하위 도메인의 주요 집합체를 발견하고 시스템에 존재하는 콘텍스트의 경계를 식별하기 위해 진행
@@ -63,7 +63,7 @@
 
 ## 5.3. 컨테이너 오케스트레이션: Kubernetes
 
-![](https://github.com/ssg-salesync/.github/tree/main/assets/k8s.png)
+![](https://github.com/ssg-salesync/.github/blob/main/assets/k8s.png)
 
 - 컨테이너 환경의 예측 가능하고 격리된 시스템 구축
 - 컨테이너화된 애플리케이션의 오케스트레이션을 목적으로 AWS EKS 기반 클러스터 구축
