@@ -35,8 +35,6 @@
 6. **Route 53 Health Checks**
     - 헬스 체크를 통해 자동으로 트래픽을 건강한 엔드포인트로 라우팅할 수 있음
 
----
-[◀️ 이전 페이지로 돌아가기](https://github.com/ssg-salesync/ssg-salesync?tab=readme-ov-file#522-salesync-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%84%A4%EA%B3%84-%EC%A0%84%EB%9E%B5)
 ### DR (Disaster Recovery) 전략
 
 1. **데이터 백업**
@@ -63,3 +61,6 @@
     - 사용자나 서비스가 수행하는 역할에 기반하여 권한을 할당
 6. **임시 권한 사용**
     - Kubernetes Add-on과 같은 프로그램에는 STS(Security Token Service)를 통해 임시 권한을 부여하여 작업을 수행
+
+---
+[◀️ 이전 페이지로 돌아가기](https://github.com/ssg-salesync/ssg-salesync?tab=readme-ov-file#522-salesync-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%84%A4%EA%B3%84-%EC%A0%84%EB%9E%B5)
