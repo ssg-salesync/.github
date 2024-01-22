@@ -54,7 +54,7 @@
 3. DR (Disaster Recovery) 전략
 4. IAM 관리 전략
 
-[📃 Salesync 인프라 전략 상세 보기](https://github.com/ssg-salesync/.github/blob/main/strategy.md1)
+[📃 Salesync 인프라 전략 상세 보기](https://github.com/ssg-salesync/.github/blob/main/strategy.md)
 
 ### 5.2.3. 코드형 인프라 (Infrastructure as a Code)
 
