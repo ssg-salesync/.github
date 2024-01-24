@@ -19,7 +19,7 @@
 
 | 웰컴 페이지 | 회원가입 |
 | :--: | ---- |
-| <img src="https://github.com/ssg-salesync/.github/blob/main/assets/welcome.gif" alt = "welcome gif" maxWidth="45%"> | gif |
+| <img src="https://github.com/ssg-salesync/.github/blob/main/assets/welcome.gif" alt = "welcome gif" style={'max-width':"45%"}> | gif |
 | **로그인** | **POS 커스터마이징 - 카테고리 등록** |
 | gif | gif |
 | **POS 커스터마이징 - 아이템 등록** | **POS 메인 - 주문 내역 조회** |
