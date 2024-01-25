@@ -23,14 +23,14 @@
 | 웰컴 페이지 | 회원가입 |
 | :--: | :--: |
 | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/welcome.gif" alt = "welcome gif" style="width: 450px;"> | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/signup.gif" alt = "signup gif" style="width: 450px;"> |
-<!-- | **로그인** | **POS 커스터마이징 - 카테고리 등록** |
-| <img src="https://github.com/ssg-salesync/.github/blob/main/assets/login.gif" alt = "login gif" style="width: 400px;"> | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/categoryAdd.gif" alt = "categoryAd gif" style="width: 400px;"> |
+| **로그인** | **POS 커스터마이징 - 카테고리 등록** |
+| <img src="https://github.com/ssg-salesync/.github/blob/main/assets/login.gif" alt = "login gif" style="width: 450px;"> | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/categoryAdd.gif" alt = "categoryAd gif" style="width: 450px;"> |
 | **POS 커스터마이징 - 아이템 등록** | **POS 메인 - 주문 내역 조회** |
-| <img src="https://github.com/ssg-salesync/.github/blob/main/assets/itemAdd.gif" alt = "itemAdd gif" style="width: 400px;"> | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/orderList.gif" alt = "orederList gif" style="width: 400px;"> |
+| <img src="https://github.com/ssg-salesync/.github/blob/main/assets/itemAdd.gif" alt = "itemAdd gif" style="width: 450px;"> | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/orderList.gif" alt = "orederList gif" style="width: 450px;"> |
 | **POS 메인 - 주문 신규 등록** | **POS 결제 - 현금** |
-| <img src="https://github.com/ssg-salesync/.github/blob/main/assets/orderAdd.gif" alt = "orderAdd gif" style="width: 400px;"> | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/payCash.gif" alt = "payCash gif" style="width: 400px;"> |
+| <img src="https://github.com/ssg-salesync/.github/blob/main/assets/orderAdd.gif" alt = "orderAdd gif" style="width: 450px;"> | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/payCash.gif" alt = "payCash gif" style="width: 450px;"> |
 | **POS 결제 - 카드** ||
-| <img src="https://github.com/ssg-salesync/.github/blob/main/assets/payCard.gif" alt = "payCard gif" style="width: 400px;"> || -->
+| <img src="https://github.com/ssg-salesync/.github/blob/main/assets/payCard.gif" alt = "payCard gif" style="width: 450px;"> ||
 
 <p align="center">
     <b>Salesync</b>는 MSA 기반 Cloud POS 서비스로 <b>어디서나 매장 관리를 할 수 있는 서비스</b>입니다.<br><br>
@@ -55,7 +55,7 @@
 ### Micro Services
 
 <img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/BackendTechStack.png" alt = "payCard gif" style="width: 600px;">
-<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/InfrastructureTechStack.png" alt = "payCard gif" style="width: 400px;">
+<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/InfrastructureTechStack.png" alt = "payCard gif" style="width: 600px;">
 
 > <b>Salesync</b>의 각 <b>Micro Service</b>들에 대해 더 자세하게 알고싶다면, [WiKi - Micro Services](위키 링크)을 참고해주세요.
 
