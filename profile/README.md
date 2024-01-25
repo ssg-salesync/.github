@@ -52,9 +52,11 @@
 
 > <b>Salesync</b>의 <b>Frontend</b> 애플리케이션에 대해 더 자세하게 알고싶다면, [GitHub WiKi - FE](위키 링크)을 참고해주세요.
 
-### Micro Services
+### Backend Application
 
 <img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/BackendTechStack.png" alt = "payCard gif" style="width: 600px;">
+
+### Infrastructure
 <img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/InfrastructureTechStack.png" alt = "payCard gif" style="width: 600px;">
 
 > <b>Salesync</b>의 각 <b>Micro Service</b>들에 대해 더 자세하게 알고싶다면, [WiKi - Micro Services](위키 링크)을 참고해주세요.
