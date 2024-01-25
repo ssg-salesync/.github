@@ -29,9 +29,10 @@
 | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/page/itemAdd.gif" alt = "itemAdd gif" style="width: 450px;"> | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/page/orderList.gif" alt = "orederList gif" style="width: 450px;"> |
 | **POS 메인 - 주문 신규 등록** | **POS 결제 - 현금** |
 | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/page/orderAdd.gif" alt = "orderAdd gif" style="width: 450px;"> | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/page/payCash.gif" alt = "payCash gif" style="width: 450px;"> |
-| **POS 결제 - 카드** ||
-| <img src="https://github.com/ssg-salesync/.github/blob/main/assets/page/payCard.gif" alt = "payCard gif" style="width: 450px;"> ||
-
+| **POS 결제 - 카드** | **대시보드** |
+| <img src="https://github.com/ssg-salesync/.github/blob/main/assets/page/payCard.gif" alt = "payCard gif" style="width: 450px;"> |<img src="https://github.com/ssg-salesync/.github/blob/main/assets/page/dashboardSales.gif" alt = "dashboardSales gif" style="width: 450px;">|
+| **AI 컨설팅** ||
+|<img src="https://github.com/ssg-salesync/.github/blob/main/assets/page/consulting.gif" alt = "consulting gif" style="width: 450px;">||
 <p align="center">
     <b>Salesync</b>는 MSA 기반 Cloud POS 서비스로 <b>어디서나 매장 관리를 할 수 있는 서비스</b>입니다.<br><br>
     <a href=데모풀버전유튜브링크>Demo (Full ver.) 바로가기</a>
