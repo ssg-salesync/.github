@@ -22,7 +22,7 @@
 
 | 웰컴 페이지 | 회원가입 |
 | :--: | :--: |
-| <img src="https://github.com/ssg-salesync/.github/blob/main/assets/welcome.gif" alt = "welcome gif" style="width: 450px;"> | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/signup.gif" alt = "signup gif" style="width: 450px;"> |
+| <img src="https://github.com/ssg-salesync/.github/blob/main/assets/welcome.gif" alt = "welcome gif" style="width: 400px;"> | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/signup.gif" alt = "signup gif" style="width: 400px;"> |
 | **로그인** | **POS 커스터마이징 - 카테고리 등록** |
 | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/login.gif" alt = "login gif" style="max-width: 45%;"> | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/categoryAdd.gif" alt = "categoryAd gif" style="max-width: 45%;"> |
 | **POS 커스터마이징 - 아이템 등록** | **POS 메인 - 주문 내역 조회** |
@@ -54,13 +54,14 @@
 
 ### Micro Services
 
-<테크 스택 사진 삽입>
+<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/BackendTechStack.png" alt = "payCard gif" style="width: 600px;">
+<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/InfrastructureTechStack.png" alt = "payCard gif" style="width: 600px;">
 
 > <b>Salesync</b>의 각 <b>Micro Service</b>들에 대해 더 자세하게 알고싶다면, [WiKi - Micro Services](위키 링크)을 참고해주세요.
 
 ### Add-ons
 
-<애드온 스택 사진 삽입>
+<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/AddonTechStack.png" alt = "payCard gif" style="width: 600px;">
 
 >  <b>Salesync</b>의 <b>추가 기능</b>에 대해 더 자세하게 알고싶다면, [WiKi - Add-ons](위키 링크)을 참고해주세요.
 
