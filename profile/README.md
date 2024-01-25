@@ -35,7 +35,7 @@
 <편집한 데모 영상 삽입>
 
 <p align="center">
-    <b>Salesync</b>는 MSA 기반 Cloud POS 서비스로 <b>어디서나 매장 관리를 할 수 있는 서비스</b>입니다.<br><br>
+    <b>Salesync</b>는 MSA 기반 Cloud POS 서비스로 <b>어디서나 매장 관리를 할 수 있는 서비스</b>입니다.<br><br>
     <a href=데모풀버전유튜브링크>Demo (Full ver.) 바로가기</a>
 </p>
 ## 🏠 Members
