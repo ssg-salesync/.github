@@ -82,4 +82,4 @@
 
 ## Team Culture
 
-<팀 룰 사진>
+<img src="https://github.com/ssg-salesync/.github/blob/main/assets/teamRules.png" alt = "teamRules gif" style="width: 600px;">
