@@ -55,7 +55,7 @@
 ### Micro Services
 
 <img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/BackendTechStack.png" alt = "payCard gif" style="width: 600px;">
-<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/InfrastructureTechStack.png" alt = "payCard gif" style="width: 300px;">
+<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/InfrastructureTechStack.png" alt = "payCard gif" style="width: 450px;">
 
 > <b>Salesync</b>의 각 <b>Micro Service</b>들에 대해 더 자세하게 알고싶다면, [WiKi - Micro Services](위키 링크)을 참고해주세요.
 
