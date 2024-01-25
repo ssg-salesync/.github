@@ -4,7 +4,8 @@
 
 <div align="center">
 
-  ☁️ 클라우드 WEB POS 💻 <br>
+스마트한 클라우드 Web POS <br>
+어디서나 간편하게 <br>
 [Salesync](https://salesync.site)
 
 </div>
@@ -17,8 +18,10 @@
 
 # 퍼블릭 클라우드 MSA 운영 환경 구축: 커스터마이징 가능한 웹 POS [Salesync]
 
+### UI/UX
+
 | 웰컴 페이지 | 회원가입 |
-| :--: | ---- |
+| :--: | :--: |
 | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/welcome.gif" alt = "welcome gif" style="max-width: 45%;"> | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/signup.gif" alt = "signup gif" style="max-width: 45%;"> |
 | **로그인** | **POS 커스터마이징 - 카테고리 등록** |
 | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/login.gif" alt = "login gif" style="max-width: 45%;"> | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/categoryAdd.gif" alt = "categoryAd gif" style="max-width: 45%;"> |
@@ -26,7 +29,8 @@
 | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/itemAdd.gif" alt = "itemAdd gif" style="max-width: 45%;"> | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/orderList.gif" alt = "orederList gif" style="max-width: 45%;"> |
 | **POS 메인 - 주문 신규 등록** | **POS 결제 - 현금** |
 | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/orderAdd.gif" alt = "orderAdd gif" style="max-width: 45%;"> | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/payCash.gif" alt = "payCash gif" style="max-width: 45%;"> |
-| **POS 결제 - 카드** | <img src="https://github.com/ssg-salesync/.github/blob/main/assets/payCard.gif" alt = "payCard gif" style="max-width: 45%;"> |
+| **POS 결제 - 카드** ||
+| <img src="https://github.com/ssg-salesync/.github/blob/main/assets/payCard.gif" alt = "payCard gif" style="max-width: 45%;"> ||
 
 <편집한 데모 영상 삽입>
 
@@ -36,20 +40,11 @@
 </p>
 ## 🏠 Members
 
-| 배승원 | 조수아 |
-| :--: | :--: |
-| 사진 | 사진 |
-| 팀 리더<br>시스템, 인프라 설계<br>마이크로 서비스 개발<br>CI / CD 파이프라인 구축<br>인프라 구축, 운영<br>IaC 구현 | BE 리더<br>마이크로 서비스 개발<br>인프라 구축, 운영 |
+| 배승원 | 조수아 | 곽민주 | 김상훈 | 김지훈 | 전경원 |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| 사진 | 사진 | 사진 | 사진 | 사진 | 사진 |
+| 팀 리더<br>시스템, 인프라 설계<br>마이크로 서비스 개발<br>CI / CD 파이프라인 구축<br>인프라 구축, 운영<br>IaC 구현 | BE 리더<br>마이크로 서비스 개발<br>인프라 구축, 운영 | FE 리더<br>FE 개발<br>BFF 개발<br>프론트엔드 파이프라인 구축 | FE 개발 | 한 일 | 한 일 |
 
-| 곽민주 | 김상훈 |
-| :--: | :--: |
-| 사진 | 사진 |
-| FE 리더<br>FE 개발<br>BFF 개발<br>프론트엔드 파이프라인 구축 | FE 개발 |
-
-| 김지훈 | 전경원 |
-| :--: | :--: |
-| 사진 | 사진 |
-| 한 일 | 한 일 |
 
 ## 🛠 Tech Stacks
 ### Frontend Application
