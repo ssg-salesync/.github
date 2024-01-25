@@ -48,7 +48,7 @@
 ## 🛠 Tech Stacks
 ### Frontend Application
 
-<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/frontTechStack.png" alt = "payCard gif" style="width: 300px;">
+<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/frontTechStack.png" alt = "payCard gif" style="width: 450px;">
 
 > <b>Salesync</b>의 <b>Frontend</b> 애플리케이션에 대해 더 자세하게 알고싶다면, [GitHub WiKi - FE](위키 링크)을 참고해주세요.
 
