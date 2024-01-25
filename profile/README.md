@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/ssg-salesync/.github/blob/main/assets/salesync_logo.png" height="300">
+    <img src="https://github.com/ssg-salesync/.github/blob/main/assets/salesync_logo.png" height="250">
 </p>
 
 <div align="center">
