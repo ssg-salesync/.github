@@ -49,35 +49,35 @@
 ## 🛠 Tech Stacks
 ### Frontend Application
 
-<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/frontTechStack.png" alt = "payCard gif" style="width: 600px;">
+<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/frontTechStack.png" style="width: 600px;">
 
 > <b>Salesync</b>의 <b>Frontend</b> 애플리케이션에 대해 더 자세하게 알고싶다면, [GitHub WiKi - FE](위키 링크)을 참고해주세요.
 
 ### Backend Application
 
-<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/BackendTechStack.png" alt = "payCard gif" style="width: 600px;">
+<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/BackendTechStack.png" style="width: 600px;">
 
 ### Infrastructure
-<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/InfrastructureTechStack.png" alt = "payCard gif" style="width: 600px;">
+<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/InfrastructureTechStack.png" style="width: 600px;">
 
 > <b>Salesync</b>의 각 <b>Micro Service</b>들에 대해 더 자세하게 알고싶다면, [WiKi - Micro Services](위키 링크)을 참고해주세요.
 
 ### Add-ons
 
-<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/AddonTechStack.png" alt = "payCard gif" style="width: 600px;">
+<img src="https://github.com/ssg-salesync/.github/blob/main/assets/techstack/AddonTechStack.png" style="width: 600px;">
 
 >  <b>Salesync</b>의 <b>추가 기능</b>에 대해 더 자세하게 알고싶다면, [WiKi - Add-ons](위키 링크)을 참고해주세요.
 
 ## ☁️ Infrastructures
 ## Amazon Web Service
 
-<aws 아키텍처>
+![](https://github.com/ssg-salesync/.github/blob/main/assets/aws.png)
 
 > <b>Salesync</b>의 <b>클라우드 아키텍처</b>에 대해 더 자세하게 알고싶다면, [WiKi - AWS](위키 링크)을 참고해주세요.
 
 ### Kubernetes
 
-<쿠버네티스 아키텍처>
+![](https://github.com/ssg-salesync/.github/blob/main/assets/k8s.png)
 
 > <b>Salesync</b>의 <b>쿠버네티스</b>에 대해 더 자세하게 알고싶다면, [WiKi - K8S](위키 링크)을 참고해주세요.
 
